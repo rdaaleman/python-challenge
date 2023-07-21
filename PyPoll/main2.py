@@ -37,6 +37,7 @@ with open(csvpath, 'r') as csvfile:
     print ("Charles Casper Stockham", Charles_Casper_Stockham, Charles_Casper_Stockham_percent,"%") 
     print ( "Diana DeGette", Diana_DeGette, Diana_DeGette_percent,"%")
     print ("Raymon Anthony Doane", Raymon_Anthony_Doane, Raymon_Anthony_Doane_percent,"%")
+    print("winner", "Diana DeGette")
 
 
 
